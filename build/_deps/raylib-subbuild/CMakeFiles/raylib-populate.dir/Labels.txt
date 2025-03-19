@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/ccc74450be41acf5e366fd045f4783c3/raylib-populate.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/a51375814ff236253fbfbb92330332fe/raylib-populate-complete.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-build.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-configure.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-download.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-install.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-mkdir.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-patch.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-test.rule
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-update.rule

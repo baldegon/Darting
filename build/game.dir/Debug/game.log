@@ -1,0 +1,13 @@
+﻿  game.c
+D:\Programacion\Game Development\MyFirstGame\game.c(75,23): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(75,30): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(75,34): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(112,17): warning C4013: 'sprintf' sin definir; se supone que extern devuelve como resultado int
+D:\Programacion\Game Development\MyFirstGame\game.c(172,51): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(172,74): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(196,45): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(196,58): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(286,50): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(286,64): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Programacion\Game Development\MyFirstGame\game.c(85,15): warning C4101: 'texture': variable local sin referencia
+  game.vcxproj -> D:\Programacion\Game Development\MyFirstGame\game.exe

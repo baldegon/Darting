@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.31/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Templates/CPackConfig.cmake.in
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/CompileDefinitions.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/GlfwImport.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/InstallConfigurations.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/JoinPaths.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/LibraryConfigurations.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/LibraryPathToLinkerFlags.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/PackConfigurations.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/PopulateConfigVariablesLocally.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/cmake/raylib-config-version.cmake
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/raylib.pc.in
+D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-src/src/CMakeLists.txt

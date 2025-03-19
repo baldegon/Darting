@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/ccc74450be41acf5e366fd045f4783c3/raylib-populate.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/a51375814ff236253fbfbb92330332fe/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-build.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-download.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-install.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-test.rule"
+		},
+		{
+			"file" : "D:/Programacion/Game Development/MyFirstGame/build/_deps/raylib-subbuild/CMakeFiles/5a75c258bb2198dff288480ec9a010ad/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}
